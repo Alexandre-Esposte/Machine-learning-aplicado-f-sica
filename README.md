@@ -1,6 +1,6 @@
 # Descrição
 
-Este reposítório é destinado as atividades da cadeira de aprendizado de maquina aplicado à física do programa de pós graduação em física da Universidade Federal Fluminense. 
+Este repositório é destinado as atividades da cadeira de aprendizado de maquina aplicado à física do programa de pós graduação em física da Universidade Federal Fluminense. 
 
 Nesse repositório estão todas as atividades demandadas durante o curso e também o respectivo projeto final.
 
